@@ -1,5 +1,5 @@
 /* PC: 모바일 앱을 중앙 정렬 */
 @media (min-width: 768px) {
-  body {background: #f0f2f5; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh;}
-  #app {width: 390px; min-height: 100vh; background: #ffffff; box-shadow: 0 0 40px rgba(0,0,0,0.12); position: relative;}
+  body {background: #F1F5F9; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh;}
+  #app {width: 390px; min-height: 100vh; background: #FFFFFF; box-shadow: 0 4px 12px rgba(0,0,0,0.06); position: relative;}
 }
